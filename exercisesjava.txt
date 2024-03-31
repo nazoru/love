@@ -1,0 +1,12 @@
+Question 1:
+Write a Java program to reverse a string without using the reverse method of Java’s String class.
+Question 2:
+Write a Java program to determine whether a number is prime or not.
+Question 3:
+Create a method in a Java class that accepts an array of numbers as a parameter. If the array of numbers can be rearranged so that they’re consecutive numbers where no number appears twice, return true. If this isn’t possible, return false. The array can be of any size.
+Question 4:
+Find the hex code embedded in a string. Create a method in Java that accepts both a string to be searched and a string that’s been encoded in hex and embedded. The method should search the first parameter and return the index of the occurrence of the second parameter.
+Question 5:
+Reverse only the letters in a string. Write a method in Java that accepts a string as a parameter. This method should return a string that reverses the letters in the string sent as a parameter but keep all the numbers in place.
+Question 6:
+Write a Pig Latin translator. Pig Latin is a language or language game. Write a method in Java that turns a string that contains words into the equivalent in Pig Latin. 
