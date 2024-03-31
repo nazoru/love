@@ -1,0 +1,47 @@
+Here is a suggested math bootcamp roadmap that starts with geometry and goes through college calculus:
+
+Geometry (1 month)
+
+Basic geometric shapes and definitions
+Perimeter, area, volume calculations
+Triangle properties and theorems
+Circle properties
+Coordinate geometry
+Algebra I (1-2 months)
+
+Evaluating and simplifying expressions
+Equations and inequalities
+Linear equations and graphs
+Exponents and radicals
+Polynomial arithmetic and factoring
+Quadratic equations and graphs
+Algebra II (1-2 months)
+
+Function notation and concepts
+Linear, quadratic, polynomial functions
+Exponential and logarithmic functions
+Rational functions
+Trigonometric functions
+Precalculus (2-3 months)
+
+Triangle and circle trigonometry
+Trig identities and equations
+Conic sections
+Sequences and series
+Limits and continuity
+Introduction to derivatives
+Calculus I (3-4 months)
+
+Limits and derivatives in detail
+Differentiation rules
+Applications of differentiation
+Definite and indefinite integrals
+Fundamental theorem of calculus
+Calculus II (3-4 months)
+
+Integration techniques and applications
+Infinite sequences and series
+Parametric equations
+Polar coordinates
+Conic sections
+Introduction to multivariable calculus 
